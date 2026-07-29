@@ -26,7 +26,7 @@ mikhail.klomonov@gmail.com
 # Опыт работы
 
 ## Сбер
-### Frontend Team Lead → Senior Frontend Developer → Middle Frontend Developer
+### Frontend Team Lead ← Senior Frontend Developer ← Middle Frontend Developer
 Июль 2020 — настоящее время
 
 Карьерный рост внутри компании:
